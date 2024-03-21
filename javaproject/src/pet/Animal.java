@@ -6,6 +6,8 @@ public class Animal {
 		// TODO Auto-generated method stub
 		String animal ="pet dog";
 		System.out.println("animal:"+animal);
+		String fav ="Syberian Husky";
+		System.out.println("Fav:"+fav);
 	}
 
 }
